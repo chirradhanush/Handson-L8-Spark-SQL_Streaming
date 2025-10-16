@@ -34,9 +34,15 @@ ride-sharing-analytics/
 ├── outputs/
 │   ├── task_1
 │   |    └── CSV files of task 1.
+│   |    └── CSV files of task 1.
+│   |    └── CSV files of task 1.
 |   ├── task_2
 │   |    └── CSV files of task 2.
+│   |    └── CSV files of task 2.
+│   |    └── CSV files of task 2.
 |   └── task_3
+│       └── CSV files of task 3.
+│       └── CSV files of task 3.
 │       └── CSV files of task 3.
 ├── task1.py
 ├── task2.py
