@@ -106,7 +106,7 @@ By the end of this assignment, you should be able to:
   ```bash
     
 trip_id,driver_id,distance_km,fare_amount,timestamp
-b17e7889-2625-4938-8fe8-7afb9be8bf16,98,15.89,144.62,2025-10-16 05:06:37
+428b707e-fae1-4b72-b1c7-7ebac82464bf,25,49.63,74.9,2025-10-16 04:37:00
   ```
 ---
 
