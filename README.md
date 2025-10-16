@@ -33,9 +33,9 @@ Ensure your project directory follows the structure below:
 ride-sharing-analytics/
 ├── outputs/
 │   ├── task_1
-│   |    └── CSV files of task 1.
-│   |    └── CSV files of task 1.
-│   |    └── CSV files of task 1.
+│   |    └── output/task1/part-00000-3be55839-2260-44c5-b95c-a20319e2faf1-c000.csv
+│   |    └── output/task1/part-00000-3be55839-2260-44c5-b95c-a20319e2faf1-c000.csv
+│   |    └── output/task1/part-00000-d50ef07b-76e2-4a2d-92c3-561a00a024ee-c000.csv
 |   ├── task_2
 │   |    └── CSV files of task 2.
 │   |    └── CSV files of task 2.
