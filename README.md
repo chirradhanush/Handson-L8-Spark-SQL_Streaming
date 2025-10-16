@@ -37,9 +37,9 @@ ride-sharing-analytics/
 │   |    └── output/task1/part-00000-c4a9eb8b-a202-44e4-9641-d13f1cf87d95-c000.csv
 │   |    └── output/task1/part-00000-d50ef07b-76e2-4a2d-92c3-561a00a024ee-c000.csv
 |   ├── task_2
-│   |    └── CSV files of task 2.
-│   |    └── CSV files of task 2.
-│   |    └── CSV files of task 2.
+│   |    └── output/task2/epoch=12/part-00000-bf121cea-773f-434b-bc03-403a95c44ec5-c000.csv
+│   |    └── output/task2/epoch=5/part-00000-ea990815-a8f3-4305-a358-469fa08019b5-c000.csv
+│   |    └── output/task2/epoch=6/part-00000-b0983dd1-2f91-4101-9afd-3c24944ec64c-c000.csv
 |   └── task_3
 │       └── CSV files of task 3.
 │       └── CSV files of task 3.
